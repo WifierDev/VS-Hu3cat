@@ -80,6 +80,7 @@ class CreditsState extends MusicBeatState
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
 			['Vs hu3cat Team'],
+			['Aly-Ant',				'aly',			'Coder and some Art',					'https://twitter.com/AlyAntlol',	'c0afff'],
 			['Pi3tr0',				'pi3tro',			'Main Charter\n Director of the mod',					'https://www.youtube.com/channel/UCEkf4h74pKFK9RO3FAze-7Q',	'FF0054'],
 			['DiogoTV',				'diogotv',			'Main Coder\n Artist/Animator of the mod\n Cutscene Animator\n Charter',	'https://youtube.com/diogotvv',			'e1e4f0'],
 			['BeastlyMudoku',		'mudoku',			'Main Artist/Animator of the mod',						'https://www.youtube.com/channel/UCxfW1v6gi0FCAjlRnLlxaxQ',	'4DFF79'],
