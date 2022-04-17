@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="hmmFogo.png">
+	<!-- Created with Adobe Animate version 18.0.2.126 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="FIREEEE0000" x="0" y="0" width="2033" height="699" frameX="0" frameY="0" frameWidth="2072" frameHeight="699"/>
+	<SubTexture name="FIREEEE0001" x="0" y="0" width="2033" height="699" frameX="0" frameY="0" frameWidth="2072" frameHeight="699"/>
+	<SubTexture name="FIREEEE0002" x="0" y="701" width="2013" height="685" frameX="-28" frameY="-12" frameWidth="2072" frameHeight="699"/>
+	<SubTexture name="FIREEEE0003" x="0" y="701" width="2013" height="685" frameX="-28" frameY="-12" frameWidth="2072" frameHeight="699"/>
+	<SubTexture name="FIREEEE0004" x="0" y="1388" width="2039" height="632" frameX="-33" frameY="-18" frameWidth="2072" frameHeight="699"/>
+	<SubTexture name="FIREEEE0005" x="0" y="1388" width="2039" height="632" frameX="-33" frameY="-18" frameWidth="2072" frameHeight="699"/>
+	<SubTexture name="FIREEEE0006" x="0" y="2022" width="2032" height="653" frameX="-29" frameY="-18" frameWidth="2072" frameHeight="699"/>
+	<SubTexture name="FIREEEE0007" x="0" y="2022" width="2032" height="653" frameX="-29" frameY="-18" frameWidth="2072" frameHeight="699"/>
+</TextureAtlas>

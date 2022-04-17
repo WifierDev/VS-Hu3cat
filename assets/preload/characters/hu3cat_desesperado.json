@@ -1,0 +1,147 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-107,
+				17
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-22,
+				1
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-168,
+				50
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-101,
+				16
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-48,
+				20
+			],
+			"anim": "ouh",
+			"fps": 24,
+			"name": "ouh",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				10,
+				10,
+				10,
+				10,
+				10,
+				10,
+				10,
+				10,
+				10,
+				10,
+				10,
+				10,
+				10,
+				10,
+				10
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-48,
+				20
+			],
+			"anim": "neutral",
+			"fps": 0,
+			"name": "ouh",
+			"indices": [
+				10,
+				10
+			]
+		},
+		{
+			"offsets": [
+				-48,
+				20
+			],
+			"indices": [
+				10,
+				10,
+				10,
+				10,
+				10
+			],
+			"fps": 1,
+			"anim": "hmm",
+			"loop": false,
+			"name": "ouh"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "hu3chars/hu3cat_Assustado",
+	"position": [
+		-50,
+		280
+	],
+	"healthicon": "hu3",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		50,
+		40
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_extra.png">
+	<!-- Created with Adobe Animate version 18.0.2.126 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="extra basic0000" x="0" y="0" width="413" height="209"/>
+	<SubTexture name="extra basic0001" x="0" y="0" width="413" height="209"/>
+	<SubTexture name="extra basic0002" x="0" y="0" width="413" height="209"/>
+	<SubTexture name="extra basic0003" x="415" y="0" width="411" height="208" frameX="-2" frameY="0" frameWidth="413" frameHeight="209"/>
+	<SubTexture name="extra basic0004" x="415" y="0" width="411" height="208" frameX="-2" frameY="0" frameWidth="413" frameHeight="209"/>
+	<SubTexture name="extra basic0005" x="415" y="0" width="411" height="208" frameX="-2" frameY="0" frameWidth="413" frameHeight="209"/>
+	<SubTexture name="extra basic0006" x="0" y="211" width="412" height="207" frameX="-1" frameY="-1" frameWidth="413" frameHeight="209"/>
+	<SubTexture name="extra basic0007" x="0" y="211" width="412" height="207" frameX="-1" frameY="-1" frameWidth="413" frameHeight="209"/>
+	<SubTexture name="extra basic0008" x="0" y="211" width="412" height="207" frameX="-1" frameY="-1" frameWidth="413" frameHeight="209"/>
+	<SubTexture name="extra select0000" x="414" y="211" width="413" height="209"/>
+	<SubTexture name="extra select0001" x="414" y="211" width="413" height="209"/>
+	<SubTexture name="extra select0002" x="0" y="422" width="411" height="208" frameX="-2" frameY="0" frameWidth="413" frameHeight="209"/>
+	<SubTexture name="extra select0003" x="0" y="422" width="411" height="208" frameX="-2" frameY="0" frameWidth="413" frameHeight="209"/>
+	<SubTexture name="extra select0004" x="413" y="422" width="412" height="207" frameX="-1" frameY="-1" frameWidth="413" frameHeight="209"/>
+	<SubTexture name="extra select0005" x="413" y="422" width="412" height="207" frameX="-1" frameY="-1" frameWidth="413" frameHeight="209"/>
+</TextureAtlas>

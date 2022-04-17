@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_youtube.png">
+	<!-- Created with Adobe Animate version 18.0.2.126 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="youtube basic0000" x="0" y="0" width="514" height="139"/>
+	<SubTexture name="youtube basic0001" x="0" y="0" width="514" height="139"/>
+	<SubTexture name="youtube basic0002" x="0" y="0" width="514" height="139"/>
+	<SubTexture name="youtube basic0003" x="534" y="0" width="514" height="139"/>
+	<SubTexture name="youtube basic0004" x="534" y="0" width="514" height="139"/>
+	<SubTexture name="youtube basic0005" x="534" y="0" width="514" height="139"/>
+	<SubTexture name="youtube basic0006" x="0" y="159" width="514" height="139"/>
+	<SubTexture name="youtube basic0007" x="0" y="159" width="514" height="139"/>
+	<SubTexture name="youtube basic0008" x="0" y="159" width="514" height="139"/>
+	<SubTexture name="youtube white0000" x="0" y="318" width="642" height="173" frameX="-2" frameY="0" frameWidth="645" frameHeight="173"/>
+	<SubTexture name="youtube white0001" x="0" y="511" width="645" height="169" frameX="0" frameY="-1" frameWidth="645" frameHeight="173"/>
+	<SubTexture name="youtube white0002" x="0" y="700" width="642" height="169" frameX="-2" frameY="-1" frameWidth="645" frameHeight="173"/>
+</TextureAtlas>

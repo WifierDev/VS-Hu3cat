@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="joaoZoom.png">
+	<!-- Created with Adobe Animate version 18.0.2.126 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="joaoZoom0000" x="0" y="0" width="1007" height="976" frameX="0" frameY="0" frameWidth="1007" frameHeight="1096"/>
+	<SubTexture name="joaoZoom0001" x="1009" y="0" width="1007" height="976" frameX="0" frameY="0" frameWidth="1007" frameHeight="1096"/>
+	<SubTexture name="joaoZoom0002" x="0" y="978" width="1007" height="1081" frameX="0" frameY="-15" frameWidth="1007" frameHeight="1096"/>
+	<SubTexture name="joaoZoom0003" x="0" y="978" width="1007" height="1081" frameX="0" frameY="-15" frameWidth="1007" frameHeight="1096"/>
+	<SubTexture name="joaoZoom0004" x="1009" y="978" width="1007" height="976" frameX="0" frameY="0" frameWidth="1007" frameHeight="1096"/>
+	<SubTexture name="joaoZoom0005" x="0" y="2061" width="1007" height="976" frameX="0" frameY="0" frameWidth="1007" frameHeight="1096"/>
+</TextureAtlas>

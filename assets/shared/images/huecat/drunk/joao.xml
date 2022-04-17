@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="joao.png">
+	<!-- Created with Adobe Animate version 18.0.2.126 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="joao0000" x="0" y="0" width="510" height="493" frameX="0" frameY="0" frameWidth="510" frameHeight="556"/>
+	<SubTexture name="joao0001" x="512" y="0" width="510" height="493" frameX="0" frameY="0" frameWidth="510" frameHeight="556"/>
+	<SubTexture name="joao0002" x="0" y="495" width="510" height="548" frameX="0" frameY="-8" frameWidth="510" frameHeight="556"/>
+	<SubTexture name="joao0003" x="0" y="495" width="510" height="548" frameX="0" frameY="-8" frameWidth="510" frameHeight="556"/>
+	<SubTexture name="joao0004" x="512" y="495" width="510" height="493" frameX="0" frameY="0" frameWidth="510" frameHeight="556"/>
+	<SubTexture name="joao0005" x="0" y="1045" width="510" height="493" frameX="0" frameY="0" frameWidth="510" frameHeight="556"/>
+</TextureAtlas>

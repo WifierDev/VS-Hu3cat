@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 18,
+			"name": "ventilador0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				78,
+				197
+			],
+			"anim": "fire1",
+			"fps": 24,
+			"name": "ventiladorcutscene",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				57,
+				157
+			],
+			"anim": "fire2",
+			"fps": 24,
+			"name": "ventiladorfogo",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "huecat/hu3/fanSprites",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-210,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

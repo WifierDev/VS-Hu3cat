@@ -1,0 +1,44 @@
+{
+	"storyName": "hu3cat",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"hu3cat",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Shower",
+			"hu3",
+			[
+				235,
+				235,
+				255
+			]
+		],
+		[
+			"Fan Fire",
+			"hu3",
+			[
+				235,
+				235,
+				255
+			]
+		],
+		[
+			"Hot Day",
+			"hu3",
+			[
+				235,
+				235,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "hu3cat"
+}

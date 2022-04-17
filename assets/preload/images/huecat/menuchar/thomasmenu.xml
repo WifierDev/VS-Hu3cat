@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="thomasmenu.png">
+	<!-- Created with Adobe Animate version 18.0.2.126 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="thomasmenu0000" x="0" y="0" width="571" height="523" frameX="0" frameY="0" frameWidth="607" frameHeight="523"/>
+	<SubTexture name="thomasmenu0001" x="0" y="0" width="571" height="523" frameX="0" frameY="0" frameWidth="607" frameHeight="523"/>
+	<SubTexture name="thomasmenu0002" x="573" y="0" width="598" height="492" frameX="-9" frameY="-31" frameWidth="607" frameHeight="523"/>
+	<SubTexture name="thomasmenu0003" x="573" y="0" width="598" height="492" frameX="-9" frameY="-31" frameWidth="607" frameHeight="523"/>
+	<SubTexture name="thomasmenu0004" x="1173" y="0" width="583" height="514" frameX="-3" frameY="-9" frameWidth="607" frameHeight="523"/>
+	<SubTexture name="thomasmenu0005" x="1173" y="0" width="583" height="514" frameX="-3" frameY="-9" frameWidth="607" frameHeight="523"/>
+	<SubTexture name="thomasmenu0006" x="0" y="525" width="580" height="521" frameX="-1" frameY="-2" frameWidth="607" frameHeight="523"/>
+	<SubTexture name="thomasmenu0007" x="0" y="525" width="580" height="521" frameX="-1" frameY="-2" frameWidth="607" frameHeight="523"/>
+	<SubTexture name="thomasmenu0008" x="582" y="525" width="582" height="521" frameX="0" frameY="-2" frameWidth="607" frameHeight="523"/>
+	<SubTexture name="thomasmenu0009" x="582" y="525" width="582" height="521" frameX="0" frameY="-2" frameWidth="607" frameHeight="523"/>
+	<SubTexture name="thomasmenu0010" x="582" y="525" width="582" height="521" frameX="0" frameY="-2" frameWidth="607" frameHeight="523"/>
+	<SubTexture name="thomasmenu0011" x="582" y="525" width="582" height="521" frameX="0" frameY="-2" frameWidth="607" frameHeight="523"/>
+	<SubTexture name="thomasmenu0012" x="582" y="525" width="582" height="521" frameX="0" frameY="-2" frameWidth="607" frameHeight="523"/>
+	<SubTexture name="thomasmenu0013" x="582" y="525" width="582" height="521" frameX="0" frameY="-2" frameWidth="607" frameHeight="523"/>
+</TextureAtlas>

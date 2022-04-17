@@ -1,0 +1,54 @@
+{
+	"song": {
+		"speed": 2.9,
+		"stage": "hu3house",
+		"player1": "bf",
+		"player2": "hu3cat",
+		"player3": null,
+		"events": [
+			[
+				18580.6451612903,
+				[
+					[
+						"Change Character",
+						"1",
+						"hu3cat_desesperado"
+					],
+					[
+						"Play Animation",
+						"hmm",
+						"Dad"
+					]
+				]
+			],
+			[
+				20413.9784946237,
+				[
+					[
+						"Hey!",
+						"BF",
+						""
+					],
+					[
+						"Change Character",
+						"1",
+						"hu3cat_desesperado"
+					],
+					[
+						"Play Animation",
+						"ouh",
+						"Dad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 155,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Fan-fire"
+	}
+}

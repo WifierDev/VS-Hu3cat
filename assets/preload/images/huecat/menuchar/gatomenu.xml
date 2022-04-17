@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gatomenu.png">
+	<!-- Created with Adobe Animate version 18.0.2.126 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gatomenu0000" x="0" y="0" width="613" height="414" frameX="-36" frameY="-5" frameWidth="685" frameHeight="419"/>
+	<SubTexture name="gatomenu0001" x="0" y="0" width="613" height="414" frameX="-36" frameY="-5" frameWidth="685" frameHeight="419"/>
+	<SubTexture name="gatomenu0002" x="0" y="416" width="685" height="377" frameX="0" frameY="-42" frameWidth="685" frameHeight="419"/>
+	<SubTexture name="gatomenu0003" x="0" y="416" width="685" height="377" frameX="0" frameY="-42" frameWidth="685" frameHeight="419"/>
+	<SubTexture name="gatomenu0004" x="0" y="795" width="673" height="384" frameX="-6" frameY="-35" frameWidth="685" frameHeight="419"/>
+	<SubTexture name="gatomenu0005" x="0" y="795" width="673" height="384" frameX="-6" frameY="-35" frameWidth="685" frameHeight="419"/>
+	<SubTexture name="gatomenu0006" x="0" y="1181" width="619" height="413" frameX="-33" frameY="-6" frameWidth="685" frameHeight="419"/>
+	<SubTexture name="gatomenu0007" x="0" y="1181" width="619" height="413" frameX="-33" frameY="-6" frameWidth="685" frameHeight="419"/>
+	<SubTexture name="gatomenu0008" x="0" y="1596" width="607" height="419" frameX="-39" frameY="0" frameWidth="685" frameHeight="419"/>
+	<SubTexture name="gatomenu0009" x="0" y="1596" width="607" height="419" frameX="-39" frameY="0" frameWidth="685" frameHeight="419"/>
+	<SubTexture name="gatomenu0010" x="0" y="1596" width="607" height="419" frameX="-39" frameY="0" frameWidth="685" frameHeight="419"/>
+	<SubTexture name="gatomenu0011" x="0" y="1596" width="607" height="419" frameX="-39" frameY="0" frameWidth="685" frameHeight="419"/>
+	<SubTexture name="gatomenu0012" x="0" y="1596" width="607" height="419" frameX="-39" frameY="0" frameWidth="685" frameHeight="419"/>
+	<SubTexture name="gatomenu0013" x="0" y="1596" width="607" height="419" frameX="-39" frameY="0" frameWidth="685" frameHeight="419"/>
+</TextureAtlas>

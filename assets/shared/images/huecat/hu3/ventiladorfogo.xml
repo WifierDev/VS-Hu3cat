@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ventiladorfogo.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Ventilador Fogo0000" x="0" y="0" width="233" height="335" frameX="-21" frameY="-29" frameWidth="255" frameHeight="364"/>
+	<SubTexture name="Ventilador Fogo0001" x="233" y="0" width="255" height="364"/>
+</TextureAtlas>
