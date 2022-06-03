@@ -136,7 +136,7 @@ class PreloadState extends MusicBeatState
 
 
 		#end
-		FlxG.switchState(new Top10BestScreens());
+		FlxG.switchState(new Top10BestScreensState());
 	}
 
 }
