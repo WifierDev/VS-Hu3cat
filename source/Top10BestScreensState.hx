@@ -11,7 +11,7 @@ import flixel.addons.transition.FlxTransitionableState;
 import flixel.tweens.FlxTween;
 import flixel.util.FlxTimer;
 
-class Top10BestScreens extends MusicBeatState
+class Top10BestScreensState extends MusicBeatState
 {
   //i love cum
   var bgcum:FlxSprite;
