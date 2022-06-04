@@ -35,12 +35,7 @@ class Top10BestScreensState extends MusicBeatState
     if (controls.ACCEPT) 
     {
       FlxG.sound.play(Paths.sound('confirmManu'));
-      FlxFlicker.flicker(text, 1, 0.1, false, true);
-      
-      FlxTimer().start(0.90, function(tmr:FlxTimer)
-      {
-        MusicBeatState.switchState(new TitleState());
-      });
+      MusicBeatState.switchState(new TitleState());
     }
     super.update(elapsed);
   }
